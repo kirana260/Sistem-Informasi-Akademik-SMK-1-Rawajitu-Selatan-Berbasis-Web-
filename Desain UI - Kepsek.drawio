@@ -1,0 +1,801 @@
+<mxfile host="Electron" modified="2024-05-31T07:57:30.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="wmXNxggp2bw7byXLHkQb" version="23.0.2" type="device" pages="11">
+  <diagram name="dashboard kepsek" id="PB1H8PRuHHcr06GSZi92">
+    <mxGraphModel dx="1034" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KVlANJY_2WX72lMjrLGi-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-2" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="205" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-4" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="42" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-5" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="48" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-6" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="45" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-7" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;MENU KEPALA SEKOLAH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="203" y="85" width="77" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-8" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Dashboard&lt;br&gt;Data pengguna&lt;br&gt;Data Master&lt;br&gt;Modul KBM&lt;br&gt;Forum Diskusi&lt;br&gt;Data Kehadiran&lt;br&gt;Laporan Nilai&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="205" y="136" width="154" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="54" width="38" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-10" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Selamat datang di&amp;nbsp;&lt;span style=&quot;box-sizing: border-box; font-weight: 700; color: rgb(51, 51, 51); font-family: &amp;quot;Source Sans Pro&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Siakad SMKN1 Rawajitu Selatan&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Source Sans Pro&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;. Aplikasi ini dirancang untuk memudahkan dalam manajemen sekolah dan penunjang kegiatan pembelajaran secara online terima kasih.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="287" y="77" width="349" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-11" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Kepala &lt;br&gt;Sekolah&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="589" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-12" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;SMKN1 Rawajitu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="45" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-13" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Kepala sekolah&lt;br&gt;Online&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="226.5" y="55" width="43.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-14" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="585.5" y="43" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-15" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Halo Kepala Sekolah!&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="284" y="66" width="96" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-26" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;186&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 10px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Siswa&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px; text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Selengkapnya&lt;/font&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;..&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="1" vertex="1">
+          <mxGeometry x="290" y="108" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-27" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;6&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Kelas&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Selengkapnya..&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="367" y="108" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-28" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;47&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Guru&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Selengkapnya..&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="443" y="108" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-29" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;5&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;Mata Pelajaran&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Selengkapnya..&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="523.5" y="109" width="62" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-30" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Garfik Kunjungan Supervisor, Guru dan Siswa&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="325" y="180" width="92" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlANJY_2WX72lMjrLGi-31" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Kalender&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="470" y="180" width="92" height="92" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="V3qJpoJ-8Mq5ZS3kkd_u" name="data pengguna-data siswa">
+    <mxGraphModel dx="1034" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-2" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="205" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-4" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="42" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-5" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="48" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-6" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="45" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="54" width="38" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;SMKN1 Rawajitu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="45" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-13" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="574.5" y="43" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-14" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Semua Data Siswa&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="76" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="113" width="337" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-17" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No.&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; NIPD &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;NISN &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;Nama Siswa&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt; Angkatan &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Kelas&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; Action&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="117" width="336" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Lihat&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="592.5" y="76" width="35.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-21" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pilih kelas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="535.5" y="76" width="50" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="LMzF49R9_EEX-qkf_Wmw-22" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Angkatan&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="475.5" y="76" width="50" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="DoZinj1U7OPeCQzfY-QG-1" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;MENU KEPALA SEKOLAH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="203" y="85" width="77" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8KgmhZPi4-tEYLNojtru-1" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Kepala sekolah&lt;br&gt;Online&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="226.5" y="55" width="43.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ju4pTh6bRQfJAL3BbV9n-1" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Kepala &lt;br&gt;Sekolah&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="589" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s54hDuc6ePv2mPb3Rz29-1" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Dashboard&lt;br&gt;Data pengguna&lt;br&gt;Data Master&lt;br&gt;Modul KBM&lt;br&gt;Forum Diskusi&lt;br&gt;Data Kehadiran&lt;br&gt;Laporan Nilai&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="205" y="136" width="154" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bN_y-XyFLgh5qAkKTsTF" name="data pengguna-dat guru">
+    <mxGraphModel dx="1034" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-2" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="205" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-4" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="42" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-5" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="48" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-6" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="45" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="54" width="38" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;SMKN1 Rawajitu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="45" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-9" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="574.5" y="43" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-10" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Semua Data Guru&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="76" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="113" width="337" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-12" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No.&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; NIPD &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;NISN &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;Nama Siswa&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt; Angkatan &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Kelas&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; Action&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="117" width="336" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-17" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;MENU KEPALA SEKOLAH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="203" y="85" width="77" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-18" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Kepala sekolah&lt;br&gt;Online&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="226.5" y="55" width="43.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-19" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Kepala &lt;br&gt;Sekolah&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="589" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-20" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Show&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="279" y="98" width="46" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-21" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Entries&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="338" y="97" width="46" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="316" y="96" width="24" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="603" y="98" width="24" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pW7cASo4tiFYhuvPrJ6b-25" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Search&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="561.5" y="99" width="46" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="wNo2ytQxY0k7vVWtyL7_-1" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Dashboard&lt;br&gt;Data pengguna&lt;br&gt;Data Master&lt;br&gt;Modul KBM&lt;br&gt;Forum Diskusi&lt;br&gt;Data Kehadiran&lt;br&gt;Laporan Nilai&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="205" y="136" width="154" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JgNovq3s35njv4uPQFMl" name="data penggguna-kepsek">
+    <mxGraphModel dx="1034" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-2" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="205" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-4" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="42" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-5" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="48" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-6" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="45" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="54" width="38" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;SMKN1 Rawajitu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="45" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-9" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="574.5" y="43" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-10" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Data Kepala Sekolah&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="76" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="113" width="337" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-12" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No. Username&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; Nama Lengkap &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Alamat Email &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;No. telpon&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; Jabatan &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Level &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Action&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="117" width="336" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-14" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;MENU KEPALA SEKOLAH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="203" y="85" width="77" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-15" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Kepala sekolah&lt;br&gt;Online&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="226.5" y="55" width="43.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-16" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Kepala &lt;br&gt;Sekolah&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="589" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-17" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Show&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="279" y="98" width="46" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-18" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Entries&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="338" y="97" width="46" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="316" y="96" width="24" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="603" y="98" width="24" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1vdzsxOUJE3b1xaq0Bnq-21" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Search&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="561.5" y="99" width="46" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="e2v6DJDlUo5eWVJ2DGwA-1" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Dashboard&lt;br&gt;Data pengguna&lt;br&gt;Data Master&lt;br&gt;Modul KBM&lt;br&gt;Forum Diskusi&lt;br&gt;Data Kehadiran&lt;br&gt;Laporan Nilai&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="205" y="136" width="154" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6AUD4SB-NkGcyCacCJ3J" name="data master - kelas">
+    <mxGraphModel dx="1034" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NO7kPTwjPh_HYqGR1bkE-1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No. Kode kelas Nama Kelas Wali Kelas Jurusan Ruangan Gedung Jumlah siswa Action&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="306" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-2" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="205" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-4" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="42" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-5" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="48" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-6" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="45" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-7" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="54" width="38" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;SMKN1 Rawajitu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="45" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-9" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="574.5" y="43" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-10" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Data Kelas&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="76" width="55" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="113" width="337" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-14" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;MENU KEPALA SEKOLAH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="203" y="85" width="77" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-15" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Kepala sekolah&lt;br&gt;Online&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="226.5" y="55" width="43.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-16" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Kepala &lt;br&gt;Sekolah&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="589" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-17" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Show&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="279" y="98" width="46" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-18" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Entries&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="338" y="97" width="46" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="316" y="96" width="24" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="603" y="98" width="24" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-21" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Search&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="561.5" y="99" width="46" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="d3vRxKOViJEZfNeo4C99-23" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No. Kode kelas Nama Kelas Wali Kelas Jurusan Ruangan Gedung Jumlah siswa Action&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="299" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="7Z6fiUw6udnI1MDpCk4z-1" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Dashboard&lt;br&gt;Data pengguna&lt;br&gt;Data Master&lt;br&gt;Modul KBM&lt;br&gt;Forum Diskusi&lt;br&gt;Data Kehadiran&lt;br&gt;Laporan Nilai&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="205" y="136" width="154" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="oKoTEySR5AJCNc6c8ey8" name="data master-mapel">
+    <mxGraphModel dx="1034" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No. Kode kelas Nama Kelas Wali Kelas Jurusan Ruangan Gedung Jumlah siswa Action&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="306" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-2" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-3" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="205" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-5" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="42" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-6" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="48" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-7" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="45" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="54" width="38" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;SMKN1 Rawajitu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="45" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-10" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="574.5" y="43" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-11" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Data mata pelajaran&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="76" width="85" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="113" width="337" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-14" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;MENU KEPALA SEKOLAH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="203" y="85" width="77" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-15" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Kepala sekolah&lt;br&gt;Online&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="226.5" y="55" width="43.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-16" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Kepala &lt;br&gt;Sekolah&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="589" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-17" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Show&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="279" y="98" width="46" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-18" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Entries&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="338" y="97" width="46" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="316" y="96" width="24" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="603" y="98" width="24" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-21" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Search&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="561.5" y="99" width="46" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="KMmtuTpV2af4yOI5EDl0-22" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No. &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Kode Mapel &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Nama Mapel &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Jurusan&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; Tingkat&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; Guru Pengampu&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Action&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="299" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="E5g5ZATMzCaJ-k_zUmtR-1" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Dashboard&lt;br&gt;Data pengguna&lt;br&gt;Data Master&lt;br&gt;Modul KBM&lt;br&gt;Forum Diskusi&lt;br&gt;Data Kehadiran&lt;br&gt;Laporan Nilai&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="205" y="136" width="154" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SG8LUsCW98TwHaM7jLM8" name="data master- jadwal pel">
+    <mxGraphModel dx="1034" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No. Kode kelas Nama Kelas Wali Kelas Jurusan Ruangan Gedung Jumlah siswa Action&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="306" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-3" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="205" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-5" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="42" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-6" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="48" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-7" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="45" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="54" width="38" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;SMKN1 Rawajitu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="45" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-10" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="574.5" y="43" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-11" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Jadwal Pelajaran Pada Tahun 2024&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="76" width="135" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="113" width="337" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-14" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;MENU KEPALA SEKOLAH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="203" y="85" width="77" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-15" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Kepala sekolah&lt;br&gt;Online&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="226.5" y="55" width="43.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-16" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Kepala &lt;br&gt;Sekolah&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="589" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ArKtSPGZe8nrGNvrTwdQ-22" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No.&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; Jadwal Pelajaran &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Kelas &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Guru &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Hari &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Mulai&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; Selesai&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="299" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="WaBhjkdeiOyQLIh6s6mN-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pilih kelas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="539" y="90" width="50" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="WaBhjkdeiOyQLIh6s6mN-2" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pilih Tahun Akademik&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="437" y="90" width="95.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="WaBhjkdeiOyQLIh6s6mN-3" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Lihat&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="594.5" y="90" width="34.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="eBix_cKOJe_7o5u-qVr--1" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Dashboard&lt;br&gt;Data pengguna&lt;br&gt;Data Master&lt;br&gt;Modul KBM&lt;br&gt;Forum Diskusi&lt;br&gt;Data Kehadiran&lt;br&gt;Laporan Nilai&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="205" y="136" width="154" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9WPNPTVHVILup2O3s0YJ" name="jurnal">
+    <mxGraphModel dx="604" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No. Kode kelas Nama Kelas Wali Kelas Jurusan Ruangan Gedung Jumlah siswa Action&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="306" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-3" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="205" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-5" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="42" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-6" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="48" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-7" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="45" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="54" width="38" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;SMKN1 Rawajitu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="45" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-10" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="574.5" y="43" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-11" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Journal Kegiatan Belajar Mengajar&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="76" width="135" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="113" width="337" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-14" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;MENU KEPALA SEKOLAH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="203" y="85" width="77" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-15" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Kepala sekolah&lt;br&gt;Online&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="226.5" y="55" width="43.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-16" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Kepala &lt;br&gt;Sekolah&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="589" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-17" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No.&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; Jadwal Pelajaran &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Kelas&amp;nbsp; &amp;nbsp;Guru&amp;nbsp; &amp;nbsp;Hari&amp;nbsp; &amp;nbsp; Mulai&amp;nbsp; &amp;nbsp;Selesai&amp;nbsp; &amp;nbsp; Ruangan&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Action&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="299" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pilih kelas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="539" y="90" width="50" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pilih Tahun Akademik&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="437" y="90" width="95.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="6FmN5sg0U7EEZs2O9QMg-20" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Lihat&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="594.5" y="90" width="34.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="UwPpcmzn4zlTW3D2OGai-1" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Dashboard&lt;br&gt;Data pengguna&lt;br&gt;Data Master&lt;br&gt;Modul KBM&lt;br&gt;Forum Diskusi&lt;br&gt;Data Kehadiran&lt;br&gt;Laporan Nilai&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="136" width="154" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="P1UheqS1yfIKWz3MOk3o" name="forum diskusi">
+    <mxGraphModel dx="604" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B1kELEkSauGlRwz9d_c--1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No. Kode kelas Nama Kelas Wali Kelas Jurusan Ruangan Gedung Jumlah siswa Action&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="306" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--2" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--3" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="205" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--5" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="42" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--6" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="48" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--7" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="45" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="54" width="38" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;SMKN1 Rawajitu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="45" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--10" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="574.5" y="43" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Jadwal Pelajaran Pada tahun 2024&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="76" width="145" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="113" width="337" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--14" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;MENU KEPALA SEKOLAH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="203" y="85" width="77" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--15" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Kepala sekolah&lt;br&gt;Online&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="226.5" y="55" width="43.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--16" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Kepala &lt;br&gt;Sekolah&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="589" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--17" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No.&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; Jadwal Pelajaran &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Kelas&amp;nbsp; &amp;nbsp;Guru&amp;nbsp; &amp;nbsp;Hari&amp;nbsp; &amp;nbsp; Mulai&amp;nbsp; &amp;nbsp;Selesai&amp;nbsp; &amp;nbsp; Ruangan&amp;nbsp; Total&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Action&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="299" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pilih kelas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="539" y="90" width="50" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pilih Tahun Akademik&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="437" y="90" width="95.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="B1kELEkSauGlRwz9d_c--20" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Lihat&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="594.5" y="90" width="34.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="VCJG-ON8x5P0Gh8ea0XE-1" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Dashboard&lt;br&gt;Data pengguna&lt;br&gt;Data Master&lt;br&gt;Modul KBM&lt;br&gt;Forum Diskusi&lt;br&gt;Data Kehadiran&lt;br&gt;Laporan Nilai&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="136" width="154" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mVjiEgfNmN_SzkD7GiIC" name="data kehadiran">
+    <mxGraphModel dx="604" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No. Kode kelas Nama Kelas Wali Kelas Jurusan Ruangan Gedung Jumlah siswa Action&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="306" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-3" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="205" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-5" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="42" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-6" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="48" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-7" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="45" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="54" width="38" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;SMKN1 Rawajitu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="45" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-10" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="574.5" y="43" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Input Kehadiran Siswa&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="76" width="105" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="113" width="337" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-14" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;MENU KEPALA SEKOLAH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="203" y="85" width="77" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-15" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Kepala sekolah&lt;br&gt;Online&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="226.5" y="55" width="43.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-16" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Kepala &lt;br&gt;Sekolah&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="589" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-17" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No. &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;NISN &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Nama Siswa&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; Sakit &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Izin &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;Tanpa Keterangan&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Action&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="299" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pilih kelas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="539" y="90" width="50" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pilih Tahun Akademik&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="437" y="90" width="95.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr3ga2-iL2YgPjgp_RS_-20" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Lihat&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="594.5" y="90" width="34.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="Ft2K_FjvmAgPLLHGeyTo-1" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Dashboard&lt;br&gt;Data pengguna&lt;br&gt;Data Master&lt;br&gt;Modul KBM&lt;br&gt;Forum Diskusi&lt;br&gt;Data Kehadiran&lt;br&gt;Laporan Nilai&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="136" width="154" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J0eKSrtQRSpXsSlkz-5E" name="laporan nilai">
+    <mxGraphModel dx="1246" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No. Kode kelas Nama Kelas Wali Kelas Jurusan Ruangan Gedung Jumlah siswa Action&amp;nbsp;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="306" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="440" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-3" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="205" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="280" as="sourcePoint" />
+            <mxPoint x="280" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-5" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="42" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-6" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="48" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-7" value="" style="line;strokeWidth=2;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="45" width="8" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-8" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Dashboard&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="54" width="38" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-9" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;SMKN1 Rawajitu&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="45" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-10" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;logo&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="574.5" y="43" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Cetak Raport Semester Siswa&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="76" width="115" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="293" y="113" width="337" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-14" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;b&gt;MENU KEPALA SEKOLAH&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="203" y="85" width="77" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-15" value="&lt;span style=&quot;font-size: 6px;&quot;&gt;Kepala sekolah&lt;br&gt;Online&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="226.5" y="55" width="43.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-16" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Kepala &lt;br&gt;Sekolah&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="589" y="37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-17" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;No. &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;NIPD &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;NISN &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Nama Siswa &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;Jenis Kelamin&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; Action&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="299" y="117" width="316" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-18" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pilih kelas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="539" y="90" width="50" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pilih Tahun Akademik&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="437" y="90" width="95.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="kGX8BFzzcuYWreL3mJN6-20" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Lihat&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" parent="1" vertex="1">
+          <mxGeometry x="594.5" y="90" width="34.5" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="wJqpiWiLJlrz0lLdlJM4-1" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Dashboard&lt;br&gt;Data pengguna&lt;br&gt;Data Master&lt;br&gt;Modul KBM&lt;br&gt;Forum Diskusi&lt;br&gt;Data Kehadiran&lt;br&gt;Laporan Nilai&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="136" width="154" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
