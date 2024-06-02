@@ -1,3 +1,3 @@
-'Sistem Informasi Akademik SMK 1 Rawajitu Selatan Berbasis Web'
-- Diagram Sequence Diagram & Class Diagram
-- Desain User Interface
+# Project collab with lecturers and friend in campus
+# Create UML diagram (Sequence Diagram, Class Diagram) 
+# Design User Interface
